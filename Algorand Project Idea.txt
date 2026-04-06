@@ -1,0 +1,12 @@
+Algorand Project Idea
+
+Project Name: Blockchain Voting System
+
+Description:
+This project is a simple voting system built using Algorand blockchain.
+Users can vote securely and results are transparent.
+
+Features:
+- Secure voting
+- No duplicate votes
+- Transparent results
